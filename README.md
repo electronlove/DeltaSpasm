@@ -10,7 +10,10 @@
 
 - **Electronics**
   - 0.9 Stepper motors from Stepper Online
-         
+  - Hall Endstops (Sainsmart Special for now)
+  - 120V, 350W Silicone Heater controlled by a Crydom panelmount SSR (Model D2425) (http://www.crydom.com/en/products/panel-mount/perfect-fit/ac-output/series-1/)
+  - Meanwell 24V 350W power supply (Model # LRS-350-24)
+  - Replicape + Beaglebone Black (https://www.thing-printer.com/)
 
 See additional files  for BOM (xls) and STLs
 
