@@ -2,7 +2,7 @@
 
 **Larger format, 1M high Delta 3D Printer**
 - **Mechanical**
-  - Features a large, 310 mm build area with a 330 mm (13") x 6.25mm (0.25") MIC-6 aluminum bed.  I sourced the MIC-6 locally, from BMG Metals (Maryland).  The aluminum plate was plasma cut and had the edges needed to be cleaned up with a Dremel.  
+  - Features a large, 310 mm build area with a 330 mm (13") x 6.25mm (0.25") MIC-6 aluminum bed.  I sourced the MIC-6 locally, from BMG Metals (Maryland).  The aluminum plate was plasma cut and the rough edges needed to be cleaned up with a Dremel !  
   - Printing surface will be 330 mm (13") x 3.175 mm (1/8") borofloat glass.  Glass will be sourced from http://www.behrenbergglass.com or www.howardglass.com at ~ $30 per plate.
   - Misumi Black Oxide 2020 and 2040 extrusions at 455mm (horizontals) and 1000mm (vertical).  
   - Delta 2040 corners from RobotDigg.  I purchased mine from an unknown Alibaba Company for a reasonable price (http://jing-bang.en.alibaba.com) 
