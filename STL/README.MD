@@ -11,7 +11,7 @@
   - 4mm thick cork should be glued in place to protect the mounts from heat damage (Mine were printed in PETG but ABS or ASA is preferable)
   - Holders use 5mm socket cap screws and t-nuts.
   - Designed to accommodate a 330 mm (13") bed and 455mm horizontal extrusions.
-  - **File names:** Delta Bed Holder V1.stl (Print 2X) and Delta Bed Holder wire guide 14mm.stl (Print 1X)
+  - **File names:** Delta Bed Holder V1.stl (Print 2X) and Delta Bed Holder wire guide 15mm.stl (Print 1X)
   
 **Motor Covers**
   - The motor covers are of two types, one has a larger notch to accomodate wiring and guide it beneath the print bed.  
