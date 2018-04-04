@@ -22,7 +22,7 @@
 **Electronics Cooling**
   - Consists of 2x fan grills that are 20mm in height, a fan mount for 2x 30mm fans, and a cover for BBB + replicape
   - The BBB + cape are screwed into the bottom aluminmum bottom plate / heatsink) with brass stand-offs.
-  **File names:** Fan conduit Cover V2.stl, Fan Conduit.stl, Fan Grill.stl, Cape enclosure.stl 
+  - **File names:** Fan conduit Cover V2.stl, Fan Conduit.stl, Fan Grill.stl, Cape enclosure.stl 
  
  **Mechanical Parts**
   - 3X Feet to raise the bottom of the Delta Printer for optional airflow in the bottom compartment and vibration isolation
