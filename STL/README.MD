@@ -30,3 +30,4 @@
  
  **Additional Parts**
   - Delta_09_mount_t.dxf - bottom design/heatsink for electronics and mounting holes - For CNC/laser/plasma what-have-you.
+  - Delta Power Panel.stl - Panel for IEC connector, Bulgin fuse holder(Part # FX0462), and Illuminated Mains Switch (Part # H8553VBBA3-551W)
