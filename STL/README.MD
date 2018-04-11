@@ -25,8 +25,7 @@
   - **File names:** Fan conduit Cover V2.stl, Fan Conduit.stl, Fan Grill.stl, Cape enclosure.stl 
  
  **Other Mechanical Parts**
-  - 3X Feet to raise the bottom of the Delta Printer for optional airflow in the bottom compartment and vibration isolation
-  - **File names:** Delta Feet.stl
-  - Panel for IEC connector, Bulgin fuse holder(Part # FX0462), and Illuminated Mains Switch (Part # H8553VBBA3-551W) - **File name:** Delta Power Panel.stl 
-  - Panel for Panel Mount Ethernet and USB cables to Beaglebone Black (Adafruit Part # 909 and 908) - **File name:** ENET USB Panel.stl
-  - Bottom design/heatsink for electronics and mounting holes - For CNC/laser/plasma what-have-you. **File name:** Delta_09_mount_t.dxf
+  - 3X Feet to raise the bottom of the Delta Printer for optional airflow in the bottom compartment and vibration isolation **File names:** Delta Feet.stl
+  - Panel for IEC connector, Bulgin fuse holder(Part # FX0462), and Illuminated Mains Switch (Part # H8553VBBA3-551W) **File name:** Delta Power Panel.stl 
+  - Panel for Panel Mount Ethernet and USB cables to Beaglebone Black (Adafruit Part # 909 and 908) **File name:** ENET USB Panel.stl
+  - Bottom design/heatsink for electronics and mounting holes - For CNC/laser/plasma what-have-you **File name:** Delta_09_mount_t.dxf
